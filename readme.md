@@ -7,14 +7,13 @@ Context menu tool to find active processes.
 - [Handle - Microsoft](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
 - [nircmd - nirsoft](https://www.nirsoft.net/utils/nircmd.html)
 
-### Example
+### Example ( folder or file in use error )
 
-1. folder or file in use error
-2. right click and 'find handle' click  
+1. right click and 'find handle' click  
    ![click](./images/rightclick.png)
-3. check pid  
+2. check pid  
    ![check](./images/checkpid.png)
-4. kill process >`taskkill /pid 16920 /f`
+3. kill process >`taskkill /pid 16920 /f`
 
 ## Fast start
 
