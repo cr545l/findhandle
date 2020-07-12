@@ -9,7 +9,7 @@ Context menu tool to find active processes.
 
 ### Example ( folder or file in use error )
 
-1. right click and 'find handle' click  
+1. right click and `find handle` click  
    ![click](./images/rightclick.png)
 2. check pid  
    ![check](./images/checkpid.png)
